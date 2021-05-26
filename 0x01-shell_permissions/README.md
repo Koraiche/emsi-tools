@@ -1,3 +1,3 @@
-# 0x01. Shell Permissions
+# a lot of commands that doesnt work ....
 
 
